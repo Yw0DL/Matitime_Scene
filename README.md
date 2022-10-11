@@ -7,5 +7,5 @@ This project is developed based on Unity engine. Unity version: 2020.3.12f1c1. V
 ### 3. Quick Start
 Use USV_Move.cs to control the movement of the ship. Use Camera_Move.cs to control the movement of the camera. You can record by enabling "Playable Director" and change the file path in "Timeline".
 ### 4. Visualization
-![Fig. 1](E:/Figure/1.png "Sample")
+![Sample](E:/Figure/1.png "Sample")
 The above pictures are the visualizations of the Maritime_Scene.
